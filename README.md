@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @kaunfell
-- 👀 I’m interested in ...
+
+- 👀 Gaming and making games is a great way to learn new things.
+
+
+
 - 🌱 I’m currently learning React.
 
 <!---
