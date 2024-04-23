@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @kaunfell
-
-- 👀 Gaming and making games is a great way to learn new things.
+ 👋 Hi, I’m @kaunfell
 
 
+I like coding, games and pixel art. 
+Gaming and making games is a great way to learn new things.
 
-- 🌱 I’m currently learning React.
+
+
+:four_leaf_clover: I like HTML, CSS and Javascript, and I’m currently learning React.
 
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
