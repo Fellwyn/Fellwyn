@@ -6,7 +6,7 @@ Gaming and making games is a great way to learn new things.
 
 
 
-<a href="https://kaunfell.github.io/Porfolio-simple/">Porfolio</a>
+<a href="https://kaunfell.github.io/Porfolio-simple/" target="_blank">Porfolio</a>
 
 
 Itch.io: https://kaunfell.itch.io/
