@@ -1,16 +1,16 @@
- 👋 Hi, I’m @kaunfell
+ 👋 Hi, I’m @Fellwyn
 
 
 I like coding, games and pixel art. 
-Gaming and making games is a great way to learn new things.
 
 
 
-<a href="https://kaunfell.github.io/Porfolio-simple/" target="_blank">Porfolio</a>
+
+<a href="https://Fellwyn.github.io/Porfolio-simple/" target="_blank">Simple Porfolio</a>
 
 
 Itch.io: https://kaunfell.itch.io/
-
+Email: kooditunturi (at) gmail.com
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
