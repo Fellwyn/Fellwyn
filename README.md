@@ -6,11 +6,8 @@ I like coding, games and pixel art.
 
 
 
-<a href="https://Fellwyn.github.io/Porfolio-simple/" target="_blank">Simple Porfolio</a>
-<br>
 
-Itch.io: https://fellwyn.itch.io/
-<br>
+
 Email: kooditunturi (at) gmail.com
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
