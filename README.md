@@ -7,7 +7,7 @@ I like coding and games.
 
 
 
-Portfolio: https://fellwyn.github.io/Portfolio-simple/
+Portfolio: https://fellwyn.github.io/Portfolio-simple/ <br>
 Email: kooditunturi (at) gmail.com
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
