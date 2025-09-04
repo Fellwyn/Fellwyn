@@ -1,13 +1,13 @@
  👋 Hi, I’m @Fellwyn
 
 
-I like coding, games and pixel art. 
+I like coding and games. 
 
 
 
 
 
-
+Portfolio: https://fellwyn.github.io/Portfolio-simple/
 Email: kooditunturi (at) gmail.com
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
