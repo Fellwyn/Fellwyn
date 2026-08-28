@@ -8,8 +8,9 @@ My interests include building basic websites, interactive experiences and games.
 
 
 
-⭐ **Latest work**: https://kitakaze.art/<br>
-📟 **Portfolio**: https://fellwyn.github.io/Portfolio-simple/ <br>
+⭐ **Latest work**: https://kitakaze.art, https://www.hillusia.com/ <br>
+💳 **Portfolio website** https://fellwyn.com/ 
+📜 **Portfolio full/all projects**: https://fellwyn.github.io/Portfolio-simple/ <br>
 📧 **Email**: kooditunturi (at) gmail.com
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
