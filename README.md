@@ -9,7 +9,7 @@ My interests include building basic websites, interactive experiences and games.
 
 
 ⭐ **Latest work**: https://kitakaze.art, https://www.hillusia.com/ <br>
-💳 **Portfolio website** https://fellwyn.com/ 
+💳 **Portfolio website** https://fellwyn.com/ <br>
 📜 **Portfolio full/all projects**: https://fellwyn.github.io/Portfolio-simple/ <br>
 📧 **Email**: kooditunturi (at) gmail.com
 <!---
