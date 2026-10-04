@@ -2,14 +2,14 @@
 
 
 
-Frontend-focused developer with a passion for building websites and creative projects,
+Frontend-focused developer with a passion for building websites and creative projects, <br>
 with an interest in game development.
 <br>
 <br>
 
 
 
-⭐ **Latest projects**: <br> - https://kitakaze.art <br - https://www.hillusia.com/ <br> <br> <br>
+⭐ **Latest projects**: <br> - https://kitakaze.art <br> - https://www.hillusia.com/ <br> <br> 
 💳 **Portfolio website** https://fellwyn.com/ <br>
 📜 **Portfolio full/all projects**: https://fellwyn.github.io/Portfolio-simple/ <br>
 📧 **Email**: kooditunturi (at) gmail.com
