@@ -7,7 +7,7 @@ with an interest in game development.
 <br>
 <br>
 
-I am looking for new positions! [october/2026]
+I am looking for new positions! [🐙🍓/2026]
 
 ⭐ **Latest projects**: <br> - https://kitakaze.art <br> - https://www.hillusia.com/ <br> <br> 
 💳 **Portfolio website** https://fellwyn.com/ <br>
@@ -16,5 +16,5 @@ I am looking for new positions! [october/2026]
 <!---
 kaunfell/kaunfell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kaunfell)
+--->
