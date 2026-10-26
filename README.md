@@ -7,7 +7,7 @@ with an interest in game development.
 <br>
 <br>
 
-I am looking for new positions! [🐙🍓/2026]
+I am looking for new positions! [10/2026]
 
 ⭐ **Latest projects**: <br> - https://kitakaze.art <br> - https://www.hillusia.com/ <br> <br> 
 💳 **Portfolio website** https://fellwyn.com/ <br>
